@@ -1,1 +1,1 @@
-This is Dimitri's first git project!
+This is Dimitri's first git project! I'm trying to rebuild the starting page of google. Let's try it.
